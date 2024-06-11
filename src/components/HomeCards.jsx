@@ -14,19 +14,19 @@ const HomeCards = () => {
             </p>
             <Link
               to="/jobs"
-              className="inline-block bg-black text-white rounded-lg px-4 py-2 hover:bg-gray-700"
+              className="inline-block bg-darkestBlue text-white rounded-lg px-4 py-2 hover:bg-gray-700"
             >
               Browse Jobs
             </Link>
           </Card>
-          <Card bg='bg-indigo-100'>
+          <Card bg='bg-lightBlue'>
           <h2 className="text-2xl font-bold">For Employers</h2>
             <p className="mt-2 mb-4">
               List your job to find the perfect developer for the role
             </p>
             <Link
               to="/add-job"
-              className="inline-block bg-indigo-500 text-white rounded-lg px-4 py-2 hover:bg-indigo-600"
+              className="inline-block bg-darkestBlue text-white rounded-lg px-4 py-2 hover:bg-lightBlue"
             >
               Add Job
             </Link>
