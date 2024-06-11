@@ -1,8 +1,57 @@
-# React + Vite
+# Jobs Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a job listing application built with parts of the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to search for jobs, view job details, and manage their job postings.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+
+
+## Features
+
+- Browse job listings
+- View and create detailed job descriptions
+- Post jobs and manage listings
+
+## Installation
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+- [Node.js](https://nodejs.org/)
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/nem-bla/jobs.git
+cd jobs
+```
+
+### Screenshots
+- Home Page
+!(https://github.com/nem-bla/jobs/blob/main/images/home.png)
+
+- Browse Jobs Page
+!(https://github.com/nem-bla/jobs/blob/main/images/browse.png)
+
+- Selected Job Page
+!(https://github.com/nem-bla/jobs/blob/main/images/job.png)
+
+- Add Job Page
+!(https://github.com/nem-bla/jobs/blob/main/images/add.png)
+
+- Update Job Page
+!(https://github.com/nem-bla/jobs/blob/main/images/update.png)
+
+### Technologies Used
+- Frontend:
+    - React, Tailwind, React-Toastify, FontAwesome
+
+- Backend:
+    - JSON Server
