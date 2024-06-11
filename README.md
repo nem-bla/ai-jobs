@@ -35,19 +35,19 @@ cd jobs
 
 ### Screenshots
 - Home Page
-!(https://github.com/nem-bla/jobs/blob/main/images/home.png)
+![Home](https://github.com/nem-bla/jobs/blob/main/images/home.png)
 
 - Browse Jobs Page
-!(https://github.com/nem-bla/jobs/blob/main/images/browse.png)
+![Browse](https://github.com/nem-bla/jobs/blob/main/images/browse.png)
 
 - Selected Job Page
-!(https://github.com/nem-bla/jobs/blob/main/images/job.png)
+![Job](https://github.com/nem-bla/jobs/blob/main/images/job.png)
 
 - Add Job Page
-!(https://github.com/nem-bla/jobs/blob/main/images/add.png)
+![Add Job](https://github.com/nem-bla/jobs/blob/main/images/add.png)
 
 - Update Job Page
-!(https://github.com/nem-bla/jobs/blob/main/images/update.png)
+![Update Job](https://github.com/nem-bla/jobs/blob/main/images/update.png)
 
 ### Technologies Used
 - Frontend:
