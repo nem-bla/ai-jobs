@@ -33,6 +33,21 @@ git clone https://github.com/nem-bla/jobs.git
 cd jobs
 ```
 
+### NPM Install
+```bash
+npm install
+```
+
+### Run the Backend
+```bash
+npm run server
+```
+
+### Run the Frontend (separate terminal)
+```bash
+npm run dev
+```
+
 ### Screenshots
 - Home Page
 ![Home](https://github.com/nem-bla/jobs/blob/main/images/home.png)
